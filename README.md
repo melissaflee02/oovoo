@@ -12,7 +12,7 @@ Through Oovoo, users can join communities of interest, view and post upcoming tr
 
 To run:
 * Clone the repository
-* ```cd``` into the internal ```oovoo```
+* ```cd``` into the internal ```oovoo``` folder
 * Run ```npm i``` to install all necessary packages
 * Run ```npx expo start``` to start the Oovoo app on Expo Go
 * Scan the QR Code with Expo Go downloaded on your mobile device (If necessary, press ```s``` on your keyboard to switch to Expo Go from development build)
