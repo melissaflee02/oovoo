@@ -8,9 +8,8 @@ Oovoo is a social platform intended to enable smarter ridesharing within Stanfor
 
 Through Oovoo, users can join communities of interest, view and post upcoming trips, and register themselves as a driver or passenger for expected travel plans. Drivers have the option to specify the type of vehicle they are bringing, the number of seats available, and a pickup location and time. Interested passengers may choose to add themselves to vehicles that fit their schedules and see who else they will be traveling with. By default, all new users are added to the Stanford community :)
 
-## Synopsis
+## To Run on a Mobile Device
 
-To run:
 * Clone the repository
 * ```cd``` into the internal ```oovoo``` folder
 * Run ```npm i``` to install all necessary packages
